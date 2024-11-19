@@ -1,0 +1,28 @@
+# Curso Completo de Nmap: De 0 a 100
+
+Bienvenido/a al curso completo de **Nmap**, donde aprenderás a utilizar esta herramienta esencial para el análisis de redes y pruebas de penetración. Este curso está diseñado para principiantes y profesionales que buscan llevar sus habilidades de ciberseguridad al siguiente nivel.
+
+## 🌟 ¿Qué aprenderás?
+- Uso básico y avanzado de Nmap.
+- Escaneos de redes, detección de sistemas operativos y servicios.
+- Automatización con scripts NSE.
+- Técnicas evasivas y optimización de escaneos.
+
+## 🗂️ Estructura del curso
+1. **Introducción a Nmap**
+2. **Escaneos básicos y detección de hosts**
+3. **Técnicas de escaneo avanzadas**
+4. **Nmap Scripting Engine (NSE)**
+5. **Automatización y optimización**
+6. **Aplicaciones prácticas en pentesting**
+
+## 📂 Contenido del repositorio
+- `/docs`: Documentación completa del curso.
+- `/scripts`: Ejercicios prácticos y scripts NSE personalizados.
+- `/lab`: Laboratorios y entornos de práctica.
+- `/resources`: Material complementario (diagramas, guías rápidas, etc.).
+
+## 🚀 Cómo empezar
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/Curso-Nmap-De-0-a-100.git
