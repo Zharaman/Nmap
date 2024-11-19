@@ -21,8 +21,3 @@ Bienvenido/a al curso completo de **Nmap**, donde aprenderás a utilizar esta he
 - `/scripts`: Ejercicios prácticos y scripts NSE personalizados.
 - `/lab`: Laboratorios y entornos de práctica.
 - `/resources`: Material complementario (diagramas, guías rápidas, etc.).
-
-## 🚀 Cómo empezar
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/Curso-Nmap-De-0-a-100.git
